@@ -4,7 +4,9 @@
 <h1 align="center">Hi 👋, I'm Beyza Altıntoprak</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React**, **JavaScript etc...**
+
+- I regularly write articles on My Medium Page
 
 - 📫 How to reach me **altintoprakbeyza2@gmail.com**
 
